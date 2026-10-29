@@ -1,0 +1,6 @@
+{
+  "name": "PyCalc Pro - Calculadora Científica & Python",
+  "description": "Calculadora científica e interpretador matemático Python com suporte a trigonometria DEG/RAD, motor simbólico, gráficos 2D e suíte de testes de validação automatizada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
